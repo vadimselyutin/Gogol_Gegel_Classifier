@@ -1,0 +1,4 @@
+io		2.6
+re		2.2.1
+pymorphy	2 0.8
+sklearn		0.19.1
